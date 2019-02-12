@@ -1,10 +1,4 @@
 // python script compatible
-/* 
-     o-o-o  o-o-o  o-o-o   o   o  o-o-o  o-o-o  o-o-o  o-o-o  o-o-o
-       |    |-o    |       |-o-|  | o |    |    |-o-o    |      /
-       |    o-o-o  o-o-o   o   o  o   o  o-o-o  o        |    o-o-o
-       
-*/
 
 #include <ESP8266WiFi.h>
 
